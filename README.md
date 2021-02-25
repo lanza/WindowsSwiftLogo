@@ -1,4 +1,3 @@
-# WindowsSwiftLogo
-Logo for Swift on Windows
+# Logo for Swift on Windows
 
 ![Windows Swift Logo](./windowsswift.svg)
